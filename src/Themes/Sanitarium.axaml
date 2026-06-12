@@ -1,0 +1,40 @@
+<!-- The Sanitarium — fog & ash; an abandoned, fog-covered hospital.
+     A flat theme: one set of colours, no Dark/Light variants. The host
+     applies these regardless of the active Avalonia variant. -->
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Surfaces — fog + ash -->
+    <SolidColorBrush x:Key="SidebarBackground"      Color="#D8D8D5" />
+    <SolidColorBrush x:Key="ContentBackground"      Color="#ECECEA" />
+    <SolidColorBrush x:Key="PanelBackground1"       Color="#E2E2DF" />
+    <SolidColorBrush x:Key="PanelBackground2"       Color="#ECECEA" />
+    <SolidColorBrush x:Key="PanelBackground3"       Color="#C8C8C5" />
+    <SolidColorBrush x:Key="SubtleBorder"           Color="#A8A8A5" />
+
+    <!-- Accents — ghostly blue + rusted crimson -->
+    <SolidColorBrush x:Key="PrimaryAccent"          Color="#5C7A8F" />
+    <SolidColorBrush x:Key="PrimaryAccentHover"     Color="#7591A6" />
+    <SolidColorBrush x:Key="OnPrimaryAccent"        Color="#ECECEA" />
+    <SolidColorBrush x:Key="SecondaryAccent"        Color="#8B3A3A" />
+
+    <!-- Text — cold near-black -->
+    <SolidColorBrush x:Key="TextPrimary"            Color="#2A2A2A" />
+    <SolidColorBrush x:Key="TextSecondary"          Color="#6A6A6A" />
+
+    <!-- Status pairs — muted Victorian palette -->
+    <SolidColorBrush x:Key="SuccessBackground"      Color="#D8DBC8" />
+    <SolidColorBrush x:Key="SuccessForeground"      Color="#4A6B3A" />
+    <SolidColorBrush x:Key="DangerBackground"       Color="#DBC8C8" />
+    <SolidColorBrush x:Key="DangerForeground"       Color="#8B3A3A" />
+    <SolidColorBrush x:Key="InfoBackground"         Color="#C8D2DB" />
+    <SolidColorBrush x:Key="InfoForeground"         Color="#5C7A8F" />
+    <SolidColorBrush x:Key="WarningBackground"      Color="#D9CFB8" />
+    <SolidColorBrush x:Key="WarningForeground"      Color="#7A5A1A" />
+
+    <!-- Composition keys -->
+    <SolidColorBrush x:Key="DropZoneHighlight"      Color="#B45C7A8F" />
+    <SolidColorBrush x:Key="WaveformBrush"          Color="#5C7A8F" />
+    <SolidColorBrush x:Key="LoopInheritForeground"  Color="#6A6A6A" />
+    <SolidColorBrush x:Key="LoopForceOnForeground"  Color="#4A6B3A" />
+    <SolidColorBrush x:Key="LoopForceOffForeground" Color="#8B3A3A" />
+</ResourceDictionary>

@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "theme.horror-occult",
+  "name": "Horror & Occult",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Two Horror & Occult palettes: The Sanitarium (fog & ash) and The Eldritch Void (velvet & blood).",
+  "entryDll": "HorrorOccultThemePlugin.dll",
+  "isTheme": true
+}

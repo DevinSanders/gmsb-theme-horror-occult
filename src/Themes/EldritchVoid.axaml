@@ -1,0 +1,40 @@
+<!-- The Eldritch Void — velvet & blood; a cultist's midnight ritual.
+     A flat theme: one set of colours, no Dark/Light variants. The host
+     applies these regardless of the active Avalonia variant. -->
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Surfaces — abyssal black + indigo tint -->
+    <SolidColorBrush x:Key="SidebarBackground"      Color="#050308" />
+    <SolidColorBrush x:Key="ContentBackground"      Color="#0D0A1A" />
+    <SolidColorBrush x:Key="PanelBackground1"       Color="#0A0815" />
+    <SolidColorBrush x:Key="PanelBackground2"       Color="#0D0A1A" />
+    <SolidColorBrush x:Key="PanelBackground3"       Color="#1A1530" />
+    <SolidColorBrush x:Key="SubtleBorder"           Color="#2A1F45" />
+
+    <!-- Accents — blood red + toxic slime -->
+    <SolidColorBrush x:Key="PrimaryAccent"          Color="#B30000" />
+    <SolidColorBrush x:Key="PrimaryAccentHover"     Color="#D90000" />
+    <SolidColorBrush x:Key="OnPrimaryAccent"        Color="#E8D9F0" />
+    <SolidColorBrush x:Key="SecondaryAccent"        Color="#6BAF1A" />
+
+    <!-- Text — faded indigo-tinted bone -->
+    <SolidColorBrush x:Key="TextPrimary"            Color="#D5C8E0" />
+    <SolidColorBrush x:Key="TextSecondary"          Color="#7A6B8A" />
+
+    <!-- Status pairs — cult palette -->
+    <SolidColorBrush x:Key="SuccessBackground"      Color="#1F3D14" />
+    <SolidColorBrush x:Key="SuccessForeground"      Color="#6BAF1A" />
+    <SolidColorBrush x:Key="DangerBackground"       Color="#3D0A0A" />
+    <SolidColorBrush x:Key="DangerForeground"       Color="#FF1A1A" />
+    <SolidColorBrush x:Key="InfoBackground"         Color="#1A1530" />
+    <SolidColorBrush x:Key="InfoForeground"         Color="#8A5AB3" />
+    <SolidColorBrush x:Key="WarningBackground"      Color="#3D2A0A" />
+    <SolidColorBrush x:Key="WarningForeground"      Color="#C68F1A" />
+
+    <!-- Composition keys -->
+    <SolidColorBrush x:Key="DropZoneHighlight"      Color="#B4B30000" />
+    <SolidColorBrush x:Key="WaveformBrush"          Color="#B30000" />
+    <SolidColorBrush x:Key="LoopInheritForeground"  Color="#7A6B8A" />
+    <SolidColorBrush x:Key="LoopForceOnForeground"  Color="#6BAF1A" />
+    <SolidColorBrush x:Key="LoopForceOffForeground" Color="#FF1A1A" />
+</ResourceDictionary>
