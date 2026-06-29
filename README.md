@@ -13,6 +13,12 @@ Two selectable palettes for horror RPG sessions. Each appears as its own entry i
 
 **The Eldritch Void** (velvet & blood) — Abyssal midnight black and deep, sickly indigo surfaces. Vibrant blood-red primary, toxic unearthly slime green for the ritual-complete moments. For Vampire: The Masquerade, midnight cult rituals.
 
+## Preview
+
+| The Sanitarium | The Eldritch Void |
+|---|---|
+| [![The Sanitarium palette — ash-gray and sterile off-white surfaces with ghostly blue and rusted crimson accents](screenshots/Sanitarium.png)](screenshots/Sanitarium.png) | [![The Eldritch Void palette — abyssal black and indigo surfaces with blood-red and toxic slime-green accents](screenshots/EldritchVoid.png)](screenshots/EldritchVoid.png) |
+
 ## Install
 
 **Paid plugin.** The source is open here for reference, but the pre-built
